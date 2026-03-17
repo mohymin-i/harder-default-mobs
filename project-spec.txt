@@ -1,0 +1,14 @@
+# Zombies and Skeletons #
+    # Armor
+        Zombie and Skeletons should spawn with armor as follows:
+
+        Helmets - All zombies and skeletons should spawn with armor in the following probabilities
+            - Netherite Helmets: 0.10%
+            - Diamond Helmets: 0.40%
+            - Gold Helmets: 9.5%
+            - Iron Helmets: 30%
+            - Copper Helmets: 40%
+            - Leather Helmets: 20%
+
+        For  
+
