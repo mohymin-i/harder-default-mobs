@@ -32,7 +32,7 @@ All villager spawned iron golems should spawn with the following potion effects 
 Iron spawned by the player should not have these potion effects and should instead spawn as normal. 
 
 Snow Golems should spawn with the following effects (even when they are made by the player) 
-- fire 
+- fire g
 
 ## Boss Mobs ## 
 All four boss mobs (the wither, the ender dragon, the warden, and the elder guardian) should spawn with the resistance potion effect
