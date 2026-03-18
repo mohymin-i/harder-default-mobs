@@ -10,5 +10,5 @@
             - Copper Helmets: 40%
             - Leather Helmets: 20%
 
-        For  
+        For armors, the spawn rates should be dependent on the helmet that the zombie or skeleton spawns with. Netherite, Diamond, and Gold should 
 
