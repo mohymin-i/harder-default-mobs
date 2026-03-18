@@ -21,6 +21,8 @@ For armors, the spawn rates should be dependent on the helmet that the zombie or
 # Calculation Order #
 The probabilities should be calculated in the following order - spawning, weapons, armor, potion effects
 
+
+
 ## Golems ##
 All villager spawned iron golems should spawn with the following potion effects (for an infinite duration)
 - regeneration I
@@ -32,7 +34,7 @@ All villager spawned iron golems should spawn with the following potion effects 
 Iron spawned by the player should not have these potion effects and should instead spawn as normal. 
 
 Snow Golems should spawn with the following effects (even when they are made by the player) 
-- fire g
+- 
 
 ## Boss Mobs ## 
 All four boss mobs (the wither, the ender dragon, the warden, and the elder guardian) should spawn with the resistance potion effect
